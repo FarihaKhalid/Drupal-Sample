@@ -1,0 +1,22 @@
+name: Examples for Drupal 8 Project
+type: module
+description: 'Provides example code for drupal 8 project.'
+package: D8 Example modules
+# core: 8.x
+dependencies:
+  - drupal:toolbar
+
+# Information added by Drupal.org packaging script on 2019-08-04
+# version: '8.x-1.x-dev'
+# core: '8.x'
+# Information added by Drupal.org packaging script on 2019-08-05
+# version: '8.x-1.2'
+# core: '8.x'
+# project: 'examples_d8'
+# datestamp: 1564991887
+
+# Information added by Drupal.org packaging script on 2019-08-07
+version: '8.x-1.5'
+core: '8.x'
+project: 'examples_d8'
+datestamp: 1565174902

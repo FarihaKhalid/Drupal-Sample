@@ -1,0 +1,7 @@
+example_popup.content:
+ path: '/popup'
+ defaults:
+  _controller: '\Drupal\example_popup\Controller\PopupController::popup'
+  _title: 'Example Popup'
+ requirements:
+  _permission: 'access content'

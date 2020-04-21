@@ -1,0 +1,11 @@
+name: Example Popup Module
+type: module
+# core: '8.x'
+description: 'Popup example'
+dependencies:
+  - examples:examples_d8
+# Information added by Drupal.org packaging script on 2019-08-07
+version: '8.x-1.5'
+core: '8.x'
+project: 'examples_d8'
+datestamp: 1565174902
